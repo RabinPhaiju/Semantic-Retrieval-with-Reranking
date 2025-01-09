@@ -1,0 +1,135 @@
+[
+    {
+        "content": "Python is a high-level programming language known for its simplicity and readability.",
+        "metadata": {
+            "title": "Python",
+            "tags": ["programming", "Python", "software", "technology"]
+        }
+    },
+    {
+        "content": "JavaScript is a popular programming language used for web development and creating interactive websites.",
+        "metadata": {
+            "title": "JavaScript",
+            "tags": ["programming", "JavaScript", "web development", "technology"]
+        }
+    },
+    {
+        "content": "Java is a programming language used for enterprise-level applications and Android apps.",
+        "metadata": {
+            "title": "Java",
+            "tags": ["programming", "Java", "software", "technology"]
+        }
+    },
+    {
+        "content": "C++ is a powerful programming language used for system programming, game development, and performance-critical applications.",
+        "metadata": {
+            "title": "C++",
+            "tags": ["programming", "C++", "software", "technology"]
+        }
+    },
+    {
+        "content": "Ruby is a dynamic programming language known for its simplicity and productivity, often used in web development.",
+        "metadata": {
+            "title": "Ruby",
+            "tags": ["programming", "Ruby", "web development", "technology"]
+        }
+    },
+    {
+        "content": "Mount Everest is the highest peak in the world, located in the Himalayas.",
+        "metadata": {
+            "title": "Mount Everest",
+            "tags": ["mountain", "Everest", "Himalayas", "adventure"]
+        }
+    },
+    {
+        "content": "The Eiffel Tower is a wrought-iron lattice tower in Paris, France, and a global cultural icon.",
+        "metadata": {
+            "title": "Eiffel Tower",
+            "tags": ["landmark", "Paris", "France", "architecture"]
+        }
+    },
+    {
+        "content": "The Great Wall of China is a series of fortifications built to protect against invasions.",
+        "metadata": {
+            "title": "Great Wall of China",
+            "tags": ["landmark", "China", "history", "architecture"]
+        }
+    },
+    {
+        "content": "K2 is the second-highest mountain in the world, located on the China-Pakistan border.",
+        "metadata": {
+            "title": "K2",
+            "tags": ["mountain", "K2", "Himalayas", "adventure"]
+        }
+    },
+    {
+        "content": "The Statue of Liberty is a symbol of freedom located in New York Harbor, USA.",
+        "metadata": {
+            "title": "Statue of Liberty",
+            "tags": ["landmark", "USA", "freedom", "history"]
+        }
+    },
+    {
+        "content": "Mars is the fourth planet from the Sun and is often called the 'Red Planet.'",
+        "metadata": {
+            "title": "Mars",
+            "tags": ["planet", "Mars", "solar system", "astronomy"]
+        }
+    },
+    {
+        "content": "The Milky Way is the galaxy that contains our solar system and billions of stars.",
+        "metadata": {
+            "title": "Milky Way Galaxy",
+            "tags": ["galaxy", "Milky Way", "astronomy", "space"]
+        }
+    },
+    {
+        "content": "Jupiter is the largest planet in the solar system, known for its Great Red Spot.",
+        "metadata": {
+            "title": "Jupiter",
+            "tags": ["planet", "Jupiter", "solar system", "astronomy"]
+        }
+    },
+    {
+        "content": "Saturn is famous for its stunning ring system made of ice and rock particles.",
+        "metadata": {
+            "title": "Saturn",
+            "tags": ["planet", "Saturn", "solar system", "astronomy"]
+        }
+    },
+    {
+        "content": "The Sun is the star at the center of our solar system, providing light and energy.",
+        "metadata": {
+            "title": "The Sun",
+            "tags": ["star", "Sun", "solar system", "astronomy"]
+        }
+    },
+    {
+        "content": "Smartphones are mobile devices with advanced computing capabilities, such as the iPhone and Android. Swift is a powerful and intuitive programming language developed by Apple for iOS, macOS, watchOS, and tvOS. Kotlin is a modern programming language that is fully interoperable with Java and Android.",
+        "metadata": {
+            "title": "Smartphones",
+            "tags": ["mobile phones", "smartphones", "technology", "iPhone", "Android"]
+        }
+    },
+    {
+        "content": "The iPhone is a line of smartphones designed by Apple, known for its iOS operating system.",
+        "metadata": {
+            "title": "iPhone",
+            "tags": ["smartphones", "iPhone", "Apple", "technology"]
+        }
+    },
+    {
+        "content": "Android is a mobile operating system developed by Google, used by many smartphone manufacturers. While building android application developers use Kotlin and Java as programming languages.",
+        "metadata": {
+            "title": "Android OS",
+            "tags": ["smartphones", "Android", "Google", "technology"]
+        }
+    },
+    {
+        "content": "5G is the fifth generation of mobile networks, offering faster speeds and lower latency.",
+        "metadata": {
+            "title": "5G Technology",
+            "tags": ["mobile phones", "5G", "technology", "networks"]
+        }
+    }
+]
