@@ -1,0 +1,72 @@
+[
+    {
+        "content": "The Eiffel Tower is a wrought-iron lattice tower located in Paris, France.",
+        "metadata": {
+            "title": "Eiffel Tower",
+            "tags": ["landmark", "Paris", "France", "Eiffel Tower"]
+        }
+    },
+    {
+        "content": "The Great Wall of China is a series of fortifications made of stone, brick, and other materials.",
+        "metadata": {
+            "title": "Great Wall of China",
+            "tags": ["landmark", "China", "Great Wall", "history"]
+        }
+    },
+    {
+        "content": "The Amazon Rainforest is the largest tropical rainforest in the world, spanning across South America.",
+        "metadata": {
+            "title": "Amazon Rainforest",
+            "tags": ["rainforest", "Amazon", "South America", "biodiversity"]
+        }
+    },
+    {
+        "content": "Python is a high-level programming language known for its simplicity and readability.",
+        "metadata": {
+            "title": "Python Programming Language",
+            "tags": ["programming", "Python", "software", "technology"]
+        }
+    },
+    {
+        "content": "The Mona Lisa is a famous portrait painting by Leonardo da Vinci.",
+        "metadata": {
+            "title": "Mona Lisa",
+            "tags": ["art", "painting", "Mona Lisa", "Leonardo da Vinci"]
+        }
+    },
+    {
+        "content": "Mount Everest is the highest peak in the world, located in the Himalayas.",
+        "metadata": {
+            "title": "Mount Everest",
+            "tags": ["mountain", "Everest", "Himalayas", "adventure"]
+        }
+    },
+    {
+        "content": "The Apollo 11 mission was the first to land humans on the Moon in 1969.",
+        "metadata": {
+            "title": "Apollo 11 Mission",
+            "tags": ["space", "Moon", "Apollo 11", "NASA"]
+        }
+    },
+    {
+        "content": "The Mediterranean diet is known for its health benefits and emphasis on fruits, vegetables, and olive oil.",
+        "metadata": {
+            "title": "Mediterranean Diet",
+            "tags": ["diet", "health", "Mediterranean", "nutrition"]
+        }
+    },
+    {
+        "content": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "metadata": {
+            "title": "The Beatles",
+            "tags": ["music", "The Beatles", "rock", "Liverpool"]
+        }
+    },
+    {
+        "content": "The Colosseum in Rome is an ancient amphitheater used for gladiatorial contests and public spectacles.",
+        "metadata": {
+            "title": "The Colosseum",
+            "tags": ["landmark", "Rome", "Colosseum", "history"]
+        }
+    }
+]
